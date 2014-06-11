@@ -1,3 +1,4 @@
 RttenTomatoes
 =============
-![Screenshot] RottenTomatoes.gif
+![RttenTomatoes](RottenTomatoes.gif)
+ 
