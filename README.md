@@ -1,3 +1,3 @@
 RttenTomatoes
 =============
-RottenTomatoes.gif
+![Video Walkthrough] RottenTomatoes.gif
